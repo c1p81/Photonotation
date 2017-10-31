@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="g11">
+        <item>Not Applicable</item>
+        <item>Yes/Minimum 50 deg.</item>
+        <item>No/More than 50 deg.</item>
+    </string-array>
+
+    <string-array name="g12">
+        <item>0-35 m</item>
+        <item>35-50 m</item>
+        <item>50-70 m</item>
+        <item>> 70 m</item>
+    </string-array>
+
+    <string-array name="g13">
+        <item>&lt; 65 deg.</item>
+        <item>65-75 deg.</item>
+        <item>&gt;75 deg.</item>
+    </string-array>
+
+    <string-array name="g14">
+        <item>&gt; 10 m.</item>
+        <item>0-10 m.</item>
+        <item>No bench</item>
+    </string-array>
+
+    <string-array name="g15">
+        <item>Not applicable</item>
+        <item>&lt;15 m high/&gt;10 m from crest</item>
+        <item>&lt;15 m high/&lt;10 m from crest</item>
+        <item>&gt;15 m high/&gt;10 m from crest</item>
+        <item>&gt;15 m high/&lt;10 m from crest</item>
+    </string-array>
+
+
+    <string-array name="g16">
+        <item>Not applicable</item>
+        <item>0-40 m</item>
+        <item>40-85 m </item>
+        <item>&gt;85 m</item>
+    </string-array>
+
+    <string-array name="g17">
+        <item>Standard within 5 m</item>
+        <item>Not Standard (&gt;5 m dev)</item>
+    </string-array>
+
+    <string-array name="g18">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="g19">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="m21">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="m22">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+    <string-array name="m23">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="m24">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="b31">
+        <item>Pre-split</item>
+        <item>No pre-split</item>
+    </string-array>
+
+    <string-array name="b32">
+        <item>Straight H/W no loose material</item>
+        <item>Straight H/W some loose material due to blasting practice</item>
+        <item>Froozen coal, overhangs, loose material due poor blasting</item>
+    </string-array>
+
+    <string-array name="b33">
+        <item>Not applicable</item>
+        <item>Visible</item>
+        <item>Not visible</item>
+    </string-array>
+
+    <string-array name="b34">
+        <item>Visible</item>
+        <item>Not visible</item>
+    </string-array>
+
+</resources>

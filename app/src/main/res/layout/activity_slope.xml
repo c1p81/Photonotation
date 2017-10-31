@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lucainnocenti.photonotation.SlopeActivity">
+
+    <TextView
+        android:id="@+id/txtslope"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="0.0"
+        android:textSize="72sp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal|center_vertical"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="245dp" />
+
+    <Button
+        android:id="@+id/buttonspeech"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Speech"
+        android:gravity="center_horizontal|bottom"
+
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="462dp" />
+
+</android.support.constraint.ConstraintLayout>
